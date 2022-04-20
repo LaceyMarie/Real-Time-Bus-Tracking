@@ -2,9 +2,9 @@ Project Title: Real Time Bus Tracker
 
 Description: Uses MBTA bus data to determine the number of stops between MIT and Harvard campuses and adds bus markers to each of the stopping locations.
 
-How to Run:
+How to Run:  Download the source files to your machine and load them with your favorite IDE.  The application will deploy in the browser, press the button and each bus stop will be displayed.
 
-Roadmap of Future Improvements:
+Roadmap of Future Improvements: Adding a reset button to the map to place the marker back at MIT after it has reached Harvard would improve its functionality.
 
 MIT License
 
